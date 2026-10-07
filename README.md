@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Azeef</h1>
   <p>🚀 Full Stack Developer | MERN Stack | Docker & DevOps | UI/UX Enthusiast</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Docker+%26+DevOps+Learner;Problem+Solver;Creative+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Docker+%26+DevOps+Learner;Problem+Solver;Creative+Developer" alt="Typing SVG" />
 
 </div>
 
