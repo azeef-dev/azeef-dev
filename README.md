@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi 👋, I'm Azeef</h1>
-  <p>🚀 Full Stack Developer | MERN Stack | UI/UX Enthusiast</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver;Creative+Developer" alt="Typing SVG" />
+  <p>🚀 Full Stack Developer | MERN Stack | Docker & DevOps | UI/UX Enthusiast</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Docker+%26+DevOps+Learner;Problem+Solver;Creative+Developer" alt="Typing SVG" />
+
 </div>
 
 <hr />
@@ -10,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Currently learning **React & Next.js**
-- 💬 Ask me about **JavaScript, TypeScript, Html & Css**
+- 🔭 Currently working on **Full Stack Web Applications (MERN)**
+- 🌱 Currently learning **Next.js & Docker**
+- 💬 Ask me about **JavaScript, TypeScript, Next.js, React & Express.js**
 - ⚡ Fun fact: *I love turning complex problems into simple beautiful apps*
 
 <br>
@@ -33,7 +34,9 @@
 <a href="https://linkedin.com/in/azeef-ashraf-049585387" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/azeef-dev" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:azeefdeveloper@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <hr />
@@ -42,7 +45,7 @@
 
 **🚀 Frontend**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,bootstrap,redux" />
 </p>
 
 **⚙️ Backend**
@@ -50,14 +53,14 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-**☁️ DevOps & Tools**
+**🐳 DevOps & Cloud**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,firebase" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,firebase,aws,vercel,netlify,linux" />
 </p>
 
-**📱 Mobile**
+**🧰 Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm" />
 </p>
 
 <hr />
@@ -73,6 +76,7 @@
 ### 🧠 Current Focus
 - 🚀 **Scalable System Architecture & Performance Optimization**
 - 🛠️ **Modernizing Legacy Codebases with Next.js & TypeScript**
+- 🐳 **Learning Docker & Containerizing MERN Apps**
 - 🔒 **Secure API Development & Cloud Integration (AWS/Firebase)**
 - ⚡ **Mastering Advanced State Management & Microservices**
 
